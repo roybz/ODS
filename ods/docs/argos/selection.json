@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "upstreamCommit": "6ce91bcb090bf879f39723a926a2fed1e8c480b3",
+  "phase": "preparation-only",
+  "activationAllowed": false,
+  "selectedRuntime": "external native llama.cpp",
+  "optionalServicesEnabled": [],
+  "desiredCore": [
+    "dashboard",
+    "dashboard-api",
+    "open-webui",
+    "litellm",
+    "model-router"
+  ],
+  "bridge": "not implemented",
+  "cloudCredentialsProvisioned": false,
+  "authoritativeTaskStore": "Argos hub, outside ODS source",
+  "runtimeSecretsInRepository": false
+}
